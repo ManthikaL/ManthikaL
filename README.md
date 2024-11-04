@@ -1,70 +1,86 @@
-# 👨‍💻 Developer Portfolio
+# KD Jayakody
 
 <div align="center">
   
-  ![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=success&label=GitHub&query=%24.count&url=https://api.github-star-counter.workers.dev/user/ManthikaL&logo=github)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/manthikadissanayake/)
- 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+IT+Specialist;Full+Stack+Developer;Business+Analyst)
+
+  [![GitHub followers](https://img.shields.io/github/followers/kdjayakody?label=Follow&style=social)]([https://github.com/kdjayakody](https://github.com/ManthikaL))
+  [![Twitter Follow](https://img.shields.io/twitter/follow/kdjayakody?style=social)](https://x.com/ManthikaL)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthikadissanayake/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manthikalakshan@gmail.com)
   
+  <img src="https://komarev.com/ghpvc/?username=kdjayakody&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const aboutMe = {
-  role: "Software Developer | Business Analyst",
-  location: "Sri Lanka",
-  passions: ["Building scalable systems", "Cloud architecture", "Open source"],
-  currentlyLearning: ["System Design", "Advanced AWS", "Kubernetes"],
-  funFact: "Always coding with ☕"
+```typescript
+const KDJayakody = {
+    name: "Manthika Dissanayake",
+    location: "Sri Lanka 🇱🇰",
+    education: "BSc (Hons) Computer Science",
+    roles: ["Full Stack Developer", "Business Analyst", "AI Enthusiast"],
+    currentFocus: ["Machine Learning", "Cloud Architecture", "Advanced System Design"],
+    lifePhilosophy: "Learning something new every day 🚀"
 };
 ```
 
-## 💻 Tech Arsenal
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### Core Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Tools & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  | <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak" /> |
-  | --- | --- |
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ManthikaL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthikaL&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
 </div>
 
-## 🏆 Recent Achievements
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManthikaL&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
+</div>
 
-- 🌟 
-- 📚 Published Y technical articles
-- 🎓 Graduated with a Bachelor of Science in Computer Science from the University of Westminster
-
-## 🤝 Let's Connect & Collaborate
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthikadissanayake/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ManthikaL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marshmillex/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthikalakshan@gmail.com)
 
 </div>
 
 ---
+
 <div align="center">
-  <i>⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)</i>
+  
+  **💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!**
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
