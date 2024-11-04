@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthikadissanayake/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manthikalakshan@gmail.com)
   
-  <img src="https://komarev.com/ghpvc/?username=kdjayakody&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ManthikaL&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ## 👨‍💻 About Me
