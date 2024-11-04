@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=success&label=GitHub&query=%24.count&url=https://api.github-star-counter.workers.dev/user/YOUR_USERNAME&logo=github)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=safari)](https://YOUR_WEBSITE)
+  ![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=success&label=GitHub&query=%24.count&url=https://api.github-star-counter.workers.dev/user/ManthikaL&logo=github)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/manthikadissanayake/)
+ 
   
 </div>
 
@@ -12,8 +12,8 @@
 
 ```javascript
 const aboutMe = {
-  role: "Software Architect",
-  location: "YOUR_LOCATION",
+  role: "Software Developer | Business Analyst",
+  location: "Sri Lanka",
   passions: ["Building scalable systems", "Cloud architecture", "Open source"],
   currentlyLearning: ["System Design", "Advanced AWS", "Kubernetes"],
   funFact: "Always coding with ☕"
@@ -37,7 +37,6 @@ const aboutMe = {
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## 📊 GitHub Analytics
@@ -51,9 +50,9 @@ const aboutMe = {
 
 ## 🏆 Recent Achievements
 
-- 🌟 Contributed to X open-source projects
+- 🌟 
 - 📚 Published Y technical articles
-- 🎓 Completed Z certifications
+- 🎓 Graduated with a Bachelor of Science in Computer Science from the University of Westminster
 
 ## 🤝 Let's Connect & Collaborate
 
