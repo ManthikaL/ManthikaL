@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const KDJayakody = {
+const ManthikaLD = {
     name: "Manthika Dissanayake",
     location: "Sri Lanka 🇱🇰",
     education: "BSc (Hons) Computer Science",
